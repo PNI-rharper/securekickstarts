@@ -15,7 +15,7 @@
 #   limitations under the License.
 #
 install
-url --url=http://mirrors.kernel.org/centos/6/os/x86_64/
+url --url=http://mirrors.kernel.org/centos/7/os/x86_64/
 text
 lang en_US.UTF-8
 keyboard us
