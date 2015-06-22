@@ -81,6 +81,8 @@ rsyslog                     # CIS 5.1.2
 cronie-anacron              # CIS 6.1.1
 pam_passwdqc                # CIS 6.3.3
 
+%end
+
 %post --log=/root/postinstall.log
 
 ###############################################################################
